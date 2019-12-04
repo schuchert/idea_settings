@@ -1,0 +1,104 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/GildedRose-5c805719ad5fd4f01ea643a24edc186edb4cc0a5" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/lp-health-check" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-EndToEndAutomation" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-achievement" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-appreciation" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-auto-enrollment" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-charge-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-clm-processor" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-common-lib" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-consent-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-delete-history-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-docs" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-exception-handler" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-goodwill" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-health-check" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-load-test-publisher" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-modem-activation-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-operations" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-publisher" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-questionnaire" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-resiliency" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-team" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-trip-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/fp/turbo/repos/lp-update-profile-listener" value="PREVIEW" />
+            <entry key="$USER_HOME$/loyalty-repos/lp-appreciation" value="PREVIEW" />
+            <entry key="$USER_HOME$/lp-trip-listener" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="gradle.experimental" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

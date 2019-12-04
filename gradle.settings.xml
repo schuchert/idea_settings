@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-ea -Dhttp.proxyHost=proxyvipecc.nb.ford.com -Dhttp.proxyPort=83 -Dhttps.proxyHost=proxyvipecc.nb.ford.com -Dhttps.proxyPort=83" />
+  </component>
+</application>
