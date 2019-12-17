@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="Jenkins-prod-na-east" type="Groovy" />
       <mapping pattern="Jenkinsfile-preprod-na-east" type="Groovy" />
       <mapping pattern="Jenkins-preprod-na-east" type="Groovy" />
       <mapping pattern="Jenkinsfile-preprod-na-west" type="Groovy" />
