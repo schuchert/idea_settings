@@ -7,6 +7,7 @@
       <mapping pattern="Jenkinsfile-preprod-na-east" type="Groovy" />
       <mapping pattern="Jenkinsfile-preprod-na-west" type="Groovy" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile-na-preprod-east" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
